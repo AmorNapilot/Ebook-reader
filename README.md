@@ -1,6 +1,1 @@
 # Ebook-reader
-
-HOME PAGE
-
-
-
